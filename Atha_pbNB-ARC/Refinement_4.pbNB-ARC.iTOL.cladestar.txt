@@ -1,0 +1,12 @@
+DATASET_SYMBOL
+SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL CutNodes
+
+#dataset color (can be changed later)
+COLOR #ffff00
+MAXIMUM_SIZE 10
+BORDER_WIDTH 2
+BORDER_COLOR #000000
+DATA
