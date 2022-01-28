@@ -1,0 +1,2 @@
+Clade parent node branch.length label bootstrap mrca_id N_OverlapEco
+Int6085_245_276_R_39 55 56 0.08465404793481751 NA 100 ZM00028AB371450_P001|ZM00020AB366730_P001 15
