@@ -21,8 +21,12 @@
 
 
 #install.packages("optparse")
-## load packages --------------------
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
 
+BiocManager::install("msa")
+
+## load packages --------------------
 package_list<-c("optparse","entropy","dplyr","msa","tidyverse")
 
 load_pack <- function(x){
