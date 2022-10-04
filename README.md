@@ -10,3 +10,22 @@ This will create a copy of the notebook where you can input your sequence of int
 
 Video walk through of the NLRCladeFinder is in the NLRCladeFinder_Tutorial.mp4 file.
 
+# Citations
+
+If you find this useful, please cite the relevant pan-NLRome source.
+
+Arabidospsis:
+
+Van de Weyer, A.-L. et al. (2019). A Species-Wide Inventory of NLR Genes and Alleles in Arabidopsis thaliana. Cell 178: 1260–1272.e14.
+
+Maize:
+
+Hufford, M.B. et al. (2021). De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes. Science 373: 655–662.
+
+Soy:
+
+Liu, Y. et al. (2020). Pan-Genome of Wild and Cultivated Soybeans. Cell 182: 162–176.e13.
+
+Also consider citing our hvNLR paper.
+
+Prigozhin, D.M. and Krasileva, K.V. (2021). Analysis of intraspecies diversity reveals a subset of highly variable plant immune receptors and predicts their binding sites. Plant Cell 33: 998–1015.
