@@ -8,7 +8,7 @@ To open the Colab notebook, click the file NLRCladeFinder.ipynb and then click "
 
 This will create a copy of the notebook where you can input your sequence of interest and also modify the code as you like.
 
-Video walk through of the NLRCladeFinder is in the NLRCladeFinder_Tutorial.mp4 file.
+Video walk through of the NLRCladeFinder is in the NLRCladeFinder_Tutorial.mp4 file. Instructions for vieiwing entropy annotations in Chimera are in the ViewingInChimera_Tutorial.mp4 file.
 
 # Citations
 
