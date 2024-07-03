@@ -12,7 +12,11 @@ Video walk through of the NLRCladeFinder is in the NLRCladeFinder_Tutorial.mp4 f
 
 # Citations
 
-If you find this useful, please cite the relevant pan-NLRome source.
+If you find this useful, please cite our preprint and the relevant pan-NLRome source.
+
+Majority of the highly variable NLRs in maize share genomic location and contain additional target-binding domains
+Daniil M. Prigozhin, Chandler A. Sutherland, Sanjay Rangavajjhala, Ksenia V. Krasileva
+bioRxiv 2022.10.05.510735; doi: https://doi.org/10.1101/2022.10.05.510735
 
 Arabidospsis:
 
